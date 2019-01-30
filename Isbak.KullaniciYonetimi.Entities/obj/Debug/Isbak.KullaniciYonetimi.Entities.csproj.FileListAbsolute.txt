@@ -1,0 +1,11 @@
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Entities\bin\Debug\Isbak.KullaniciYonetimi.Entities.dll.config
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Entities\bin\Debug\Isbak.KullaniciYonetimi.Entities.dll
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Entities\bin\Debug\Isbak.KullaniciYonetimi.Entities.pdb
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Entities\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Entities\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Entities\obj\Debug\Isbak.KullaniciYonetimi.Entities.dll
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Entities\obj\Debug\Isbak.KullaniciYonetimi.Entities.pdb
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Entities\bin\Debug\Isbak.KullaniciYonetimi.Entities.dll.CodeAnalysisLog.xml
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Entities\bin\Debug\Isbak.KullaniciYonetimi.Entities.dll.lastcodeanalysissucceeded

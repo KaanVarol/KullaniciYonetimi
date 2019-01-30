@@ -1,0 +1,12 @@
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Dal\obj\Debug\Isbak.KullaniciYonetimi.Dal.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Dal\bin\Debug\Isbak.KullaniciYonetimi.Dal.dll.config
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Dal\bin\Debug\Isbak.KullaniciYonetimi.Dal.dll
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Dal\bin\Debug\Isbak.KullaniciYonetimi.Dal.pdb
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Dal\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Dal\bin\Debug\Isbak.KullaniciYonetimi.Entities.dll
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Dal\bin\Debug\Isbak.KullaniciYonetimi.Entities.pdb
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Dal\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Dal\obj\Debug\Isbak.KullaniciYonetimi.Dal.dll
+D:\Visual Studio Projects\Isbak.KullaniciYonetimi\Isbak.KullaniciYonetimi.Dal\obj\Debug\Isbak.KullaniciYonetimi.Dal.pdb
